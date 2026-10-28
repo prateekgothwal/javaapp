@@ -16,5 +16,6 @@
         <p>In this page, we are going to deploy things manually</p>
         <p>This is test page</p>
         <a href="about.jsp">About Page</a>
+        <a href="services.jsp">Services Page</a>
     </body>
 </html>
