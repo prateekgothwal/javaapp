@@ -14,7 +14,7 @@
     <body>
         <h2>This is java web home page</h2>
         <p>In this page, we are going to deploy things manually</p>
-        <p>This is test</p>
+        <p>This is test page</p>
         <a href="about.jsp">About Page</a>
     </body>
 </html>
